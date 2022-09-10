@@ -1,4 +1,4 @@
-L.A.S.E.R.-TAG-GRL - UNOFFICIAL MIRROR
+L.A.S.E.R.-TAG-GRL - Fork for climateclock.world and other climate crisis related projects
 ======
 
 ## The graffiti research lab L.A.S.E.R-TAG project
